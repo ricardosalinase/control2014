@@ -9,7 +9,8 @@ import java.io.UnsupportedEncodingException;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-import cl.telematica.httpjsonparseexample.interfaces.DownloadListener;
+import com.example.control2014.interfaces.DownloadListener;
+
 
 import android.os.AsyncTask;
 import android.util.Log;
